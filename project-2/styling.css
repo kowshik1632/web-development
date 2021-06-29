@@ -1,0 +1,66 @@
+*{
+	margin: 05px;
+}
+
+h1{
+	color: blanchedalmond;
+	text-align: center;
+	background-color: gray;
+	padding: 30px;
+	margin-top: 0px;
+	font-size: 3.5em;
+}
+.logo{
+	position: absolute;
+	text-align: left;
+}
+nav{
+	background-color: gray;
+	padding: 10px;
+	
+}
+
+ul{
+	list-style: none;
+
+}
+li{
+	display: inline;
+	color: blanchedalmond;
+	margin: 80px;
+	font-size: 1.5em;
+}
+
+li a{
+	color: blanchedalmond;
+	text-decoration: none;
+		
+}
+
+li a:hover{
+	color: burlywood;
+	text-decoration: none;
+	
+}
+
+.building{
+	margin-top: 10px;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+h2{
+	text-align: center;
+	font-size: 2em;
+
+}
+p{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+	font-size: 1.3em;
+}
+section{
+	background-color: #e2e2e2;
+}
+
