@@ -1,0 +1,59 @@
+header{
+	margin: 10px;
+}
+h1{
+	color: blanchedalmond;
+	text-align: center;
+	background-color: gray;
+	padding: 30px;
+	font-size: 3.5em;
+}
+.logo{
+	position: absolute;
+	text-align: left;
+	mix-blend-mode: overlay;
+	width: 7%;
+    margin: 10px auto;	
+   
+}
+nav{
+	background-color: gray;
+}
+
+li{
+	font-size: 1.5em;
+	color: blanchedalmond;
+	margin: 10px;
+}
+
+li a:hover{
+	color: burlywood;
+}
+
+
+.building{
+	margin-top: 10px;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 85%;
+}
+h2{
+	text-align: center;
+	font-size: 2em;
+	margin-top: 5px;
+
+}
+p{
+	margin-top: 15px;
+	font-size: 1.3em;
+}
+section{
+	background-color: #e2e2e2;
+}
+
+.switch{
+	position: absolute;
+	text-align: right;
+
+}
